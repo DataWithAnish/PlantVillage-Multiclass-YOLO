@@ -176,6 +176,13 @@ Deploy a permanent online version with cloud hosting.
 
 Explore gesture-based image capture for field annotation.
 
+📚 Blog & Articles
+For a deeper dive into the development process, challenges, and insights gained from this project, read the full blog post:
+
+👉 Building a Plant Disease Detection System: My Experience Managing and Developing with YOLOv12 on UNE HPC
+https://medium.com/@anishkumar.shrestha07/building-a-plant-disease-detection-system-my-experience-managing-and-developing-with-yolov12-on-01ec31ba1ed6
+
+
 💡 Inspiration
 Agriculture is the backbone of many economies. Early disease detection can prevent crop losses, ensure food security, and support farmers worldwide.
 This project merges cutting-edge computer vision with practical deployment strategies to make AI-driven agriculture accessible to everyone.
