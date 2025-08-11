@@ -25,6 +25,13 @@ Pepper	Pepper__bell___Bacterial_spot, Pepper__bell___healthy
 Potato	Potato___Early_blight, Potato___Late_blight, Potato___healthy
 Tomato	Tomato_Bacterial_spot, Tomato_Early_blight, Tomato_Late_blight, Tomato_Leaf_Mold, Tomato_Septoria_leaf_spot, Tomato_Spider_mites_Two_spotted_spider_mite, Tomato__Target_Spot, Tomato__Tomato_YellowLeaf__Curl_Virus, Tomato__Tomato_mosaic_virus, Tomato_healthy
 
+### Download the Dataset  
+The dataset is hosted on Kaggle and can be accessed here:  
+➡️ [Plant Village Augmented Dataset on Kaggle](https://www.kaggle.com/anishshrestha07/plant-village-augumented-yolov12-l-model)
+
+You can download it manually from Kaggle or use the Kaggle API as described in the **Model & Dataset Download Instructions** section.
+
+
 Dataset Challenges & Solutions
 Non-natural backgrounds (lab environment images) → Solved via data augmentation to mimic real-life conditions.
 
